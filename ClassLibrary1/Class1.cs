@@ -3,5 +3,5 @@
     public class Class1
     {
         huuuhu
-    }
+    }nu virker denne her 
 }
